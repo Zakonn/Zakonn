@@ -1,5 +1,6 @@
 ## Hey What's Up!
-My name is Rogelio Murillo. You can call me Rauj. 
+My name is Rogelio Murillo. You can call me Rauj. Thank you for taking time to visit my GITHUB :)
+You can reach me by email: rogelio.murillo@valpo.edu 
 
 I am a recent graduate from Valparaiso University (Dec 23'). I have been programming for about 2-3 years now. 
 I am currently...
